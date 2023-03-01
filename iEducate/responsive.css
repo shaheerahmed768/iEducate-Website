@@ -1,0 +1,34 @@
+@media only screen and (max-width: 1140px){
+    .nav-list{
+        flex-direction: column;
+        margin-top: 40%;
+    }
+
+    .navbar{
+        flex-direction: column;
+    }
+
+    .burger{
+        display: block;
+    }
+
+    .h-nav-resp{
+        height: 72px;
+    }
+
+    .v-class-resp{
+        opacity: 0;
+    }
+
+    .section{
+        flex-direction: column-reverse;
+    }
+ 
+}
+    
+@media only screen and (max-width: 600px){
+    .nav-list{
+        
+    }
+
+}
